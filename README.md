@@ -1,4 +1,6 @@
-Tady  
+Všechen kód je v javě  
+Formát: A + číslo otázky  
+Např.: A3 - třetí otázka  
 1 - Na vstupu je n čísel v poli A, vypište čísla, která jsou sudá.  
 2 - Na vstupu jsou zadána tři čísla, rozhodněte, zdali je možné z těchto čísel sestavit trojúhelník, představují-li tato čísla délky úseček.  
 3 - Na vstupu je n čísel v poli A, vypište čísla, která jsou lichá.  
