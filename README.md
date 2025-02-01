@@ -1,4 +1,5 @@
 Všechen kód je v javě  
+Klikneš na src/main/java/org/example  
 Formát: A + číslo otázky  
 Např.: A3 - třetí otázka  
 1 - Na vstupu je n čísel v poli A, vypište čísla, která jsou sudá.  
